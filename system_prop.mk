@@ -59,6 +59,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Misc
 PRODUCT_PROPERTY_OVERRIDES += \
+	qemu.hw.mainkeys=0 \
     ro.chipname=MSM8930AB \
     ro.product_ship=true \
     ro.warmboot.capability=1 \

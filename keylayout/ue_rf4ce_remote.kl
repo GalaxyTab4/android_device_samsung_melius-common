@@ -54,7 +54,7 @@ key 167   MEDIA_RECORD             WAKE
 key 168   MEDIA_REWIND             WAKE
 key 207   MEDIA_PLAY             WAKE
 key 208   MEDIA_FAST_FORWARD             WAKE
-key 158   BACK             WAKE
+#key 158   BACK             WAKE
 key 119   MEDIA_PAUSE             WAKE
 key 407   MEDIA_NEXT             WAKE
 key 115   VOLUME_UP      WAKE
@@ -65,4 +65,4 @@ key 402   CHANNEL_UP     WAKE
 key 403   CHANNEL_DOWN   WAKE
 key 110   STB_INPUT             WAKE
 key 28   ENTER          WAKE	#OK
-key 139   MENU           WAKE
+#key 139   MENU           WAKE
